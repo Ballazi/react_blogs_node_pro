@@ -1,0 +1,19 @@
+{
+  "name": "react_blogs_node_pro",
+  "version": "1.0.0",
+  "description": "NodeJs project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "author": "Balram Kumar",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
